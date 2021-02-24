@@ -4,10 +4,22 @@ layout: default
 
 코딩알지에서 제공하는 강의 관련 자료를 제공합니다.
 
-## 파이썬 데이터 분석
+## 데이터 과학
 
-* [홈페이지](https://codingalzi.github.io/python-data-analysis/)
+* [파이썬 데이터 분석](https://codingalzi.github.io/python-data-analysis/)
 
-## 머신러닝
+## 머신러닝/딥러닝
 
-* [홈페이지](http://formal.hknu.ac.kr/handson-ml2/)
+* [핸즈온 머신러닝(2판)](http://formal.hknu.ac.kr/handson-ml2/)
+
+## 파이썬 프로그래밍
+
+* [파이썬 프로그래밍 기초](https://formal.hknu.ac.kr/ProgInPython/)
+
+## 알고리즘
+
+* [알고리즘 기초](https://codingrg-hknu.github.io/FoundationsOfAlgorithms/)
+
+## C 언어 프로그래밍
+
+* [파이썬과 함께 배우는 C 프로그래밍](https://codingrg-hknu.github.io/NadoCoding-C-Python/)
