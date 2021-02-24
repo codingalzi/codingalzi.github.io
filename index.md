@@ -10,7 +10,7 @@ layout: default
 
 ## 머신러닝/딥러닝
 
-* [핸즈온 머신러닝(2판)](http://formal.hknu.ac.kr/handson-ml2/)
+* [핸즈온 머신러닝(2판)](https://codingalzi.github.io/handson-ml/)
 
 ## 파이썬 프로그래밍
 
