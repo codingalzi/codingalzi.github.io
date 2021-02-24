@@ -2,4 +2,5 @@ theme: jekyll-theme-cayman
 title: 코딩알지
 description: 프로그래밍 관련 정보 안내
 show_downloads: false
-github: true
+github:
+  is_project_page: true
