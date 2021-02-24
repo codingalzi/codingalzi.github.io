@@ -2,7 +2,6 @@
 title: 코딩알지 강의노트 모음집
 subtitle: 프로그래밍 강의 강의노트 모음집입니다.
 layout: page
-callouts: home_callouts
 show_sidebar: false
 ---
 
