@@ -2,7 +2,7 @@
 layout: default
 ---
 
-코딩알지에서 제공하는 강의자료 모음집입니다.
+[코딩알지](https://github.com/codingalzi/codingalzi.github.io)에서 제공하는 강의자료 모음집입니다.
 
 ## 데이터 과학
 
