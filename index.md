@@ -11,7 +11,7 @@ layout: default
 ## 머신러닝/딥러닝
 
 * [핸즈온 머신러닝(2판)](https://codingalzi.github.io/handson-ml/)
-* [수학자를 위한 머신러닝](https://codingalzi.github.io/ml-for-mathematicians/)
+* [모두를 위한 머신러닝](https://codingalzi.github.io/mle/)
 
 ## 파이썬 프로그래밍
 
