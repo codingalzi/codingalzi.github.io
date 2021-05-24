@@ -104,6 +104,13 @@ b' & = h (-\mu / \sigma)
 \end{align*}
 $$
 
+$$
+\begin{align}
+w'_i & = w_i/\sigma \\[1ex]
+b' & = h (-\mu / \sigma)
+\end{align}
+$$
+
 ### 예제 3
 
 $$
@@ -112,9 +119,9 @@ $$
 
 ### 예제 4
 
-$$
+\begin{equation}
 \frac{1}{\text{특성 수} \cdot \text{특성의 분산}}
-$$
+\end{equation}
 
 ### 예제 5
 
