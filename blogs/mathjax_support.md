@@ -5,9 +5,9 @@
 기본 아이디어는 `MathJax` 서버를 이용하여 수식이 나올 때마다 동일한 수식을
 표현하는 HTML 코드로 대체해서 보여주는 것이다. 
 
-이를 위해 [mathjax_support.html](./scripts/mathjax_support.html) 파일에 담겨 
-있는 자바 코드를 사용한다. 
-참고로, 언급된 자바 코드는 주피터 노트북을 html 파일로 변환할 때 head 부분에 자동으로 
+이를 위해 [mathjax_support.txt](./scripts/mathjax_support.txt) 파일에 담겨 
+있는 자바스크립트 코드를 사용한다. 
+참고로, 언급된 자바스크립트 코드는 주피터 노트북을 html 파일로 변환할 때 head 부분에 자동으로 
 삽입되는 `MathJax` 관련 코드를 추출한 것이다.
 
 ## 자바 코드 삽입 방법
