@@ -87,6 +87,14 @@ init_mathjax();
 
 ### 예제 1
 
+```latex
+$\mathbf{x}$를 원시 데이터(raw data) 벡터라고 하고 $\mathbf{z}$를 표준화된 벡터이라 할 때 다음 관계가 성립한다.
+
+$$
+\mathbf{z} = \frac{\mathbf{x}-\mu}{\sigma} \tag{*}
+$$
+```
+
 $\mathbf{x}$를 원시 데이터(raw data) 벡터라고 하고 $\mathbf{z}$를 표준화된 벡터이라 할 때 다음 관계가 성립한다.
 
 $$
