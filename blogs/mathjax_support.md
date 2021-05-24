@@ -97,4 +97,31 @@ $$
 
 ### 예제 2
 
+결론적으로, 원시 데이터의 각 특성 $x_i$에 대한 파라미터 $w'_i$와 편항 $b'$은 아래와 같다.
 
+$$
+\begin{align*}
+w'_i & = w_i/\sigma \\[1ex]
+b' & = h (-\mu / \sigma)
+\end{align*}
+$$
+
+### 예제 3
+
+$$
+{\displaystyle \phi_{\gamma}(\mathbf{x}, \boldsymbol{\ell})} = {\displaystyle \exp({\displaystyle -\gamma \left\| \mathbf{x} - \boldsymbol{\ell} \right\|^2})}
+$$
+
+### 예제 4
+
+$$
+\frac{1}{\text{특성 수} \cdot \text{특성의 분산}}
+$$
+
+### 예제 5
+
+비용함수는 책 227쪽, 식 5-13에서 소개한 아래 함수이다.
+
+$$
+J(\mathbf{w}, b) = \dfrac{1}{2} \mathbf{w}^T \mathbf{w} \,+\, C {\displaystyle \sum_{i=1}^{m}\max\left(0, 1 - t^{(i)} (\mathbf{w}^T \mathbf{x}^{(i)} + b) \right)}
+$$
