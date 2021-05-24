@@ -106,8 +106,8 @@ $$
 
 $$
 \begin{align}
-w'_i & = w_i/\sigma \\[1ex]
-b' & = h (-\mu / \sigma)
+w''_i & = w'_i/\sigma \\[1ex]
+b'' & = h' (-\mu / \sigma)
 \end{align}
 $$
 
@@ -127,6 +127,6 @@ $$
 
 비용함수는 책 227쪽, 식 5-13에서 소개한 아래 함수이다.
 
-$$
+\begin{equation}
 J(\mathbf{w}, b) = \dfrac{1}{2} \mathbf{w}^T \mathbf{w} \,+\, C {\displaystyle \sum_{i=1}^{m}\max\left(0, 1 - t^{(i)} (\mathbf{w}^T \mathbf{x}^{(i)} + b) \right)}
-$$
+\end{equation}
