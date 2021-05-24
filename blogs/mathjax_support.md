@@ -25,12 +25,15 @@
     jekyll 등 특별한 테마를 사용할 경우에 권장되는 방법으로,
     먼저 `head.html` 파일의 `head` 태그 안에 아래 html 코드를 삽입한다. 
     
+    {% raw %}
     {% if page.use_math %}
         {% include mathjax_support.html %}
     {% endif %}
+    {% endraw %}
 
     단, 앞서 언급된 자바스크립트 코드가 저장된 `mathjax_support.html` 파일이
-    `head.html` 파일과 동일한 폴더에 위치해야 한다. 
+    `head.html` 파일과 동일한 폴더에 위치해야 한다. [mathjax_support.txt](./scripts/mathjax_support.txt) 파일을 다운로드한 후에 확장자를 `.html`로 변경해서 적절한
+    디렉토리에 저장하면 된다.
 
 
 ## 수식 예제
