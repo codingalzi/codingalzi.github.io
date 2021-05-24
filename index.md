@@ -24,3 +24,7 @@ layout: default
 ## C 언어 프로그래밍
 
 * [파이썬과 함께 배우는 C 프로그래밍](https://codingrg-hknu.github.io/NadoCoding-C-Python/)
+
+## 블로그
+
+* [Github Pages의 Markdown과 Latex 수식(formula) 표현](./blogs/mathjax_support.md)
