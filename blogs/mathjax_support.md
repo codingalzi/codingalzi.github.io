@@ -1,3 +1,58 @@
+<script>
+    MathJax.Hub.Config({
+        "HTML-CSS": {
+            /*preferredFont: "TeX",*/
+            /*availableFonts: ["TeX", "STIX"],*/
+            styles: {
+                scale: 100,
+                ".MathJax_Display": {
+                    "font-size": "100%",
+                }
+            }
+        }
+    });
+</script>
+    
+<!-- Load mathjax -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-MML-AM_CHTML-full,Safe"> </script>
+<!-- MathJax configuration -->
+<script type="text/x-mathjax-config">
+init_mathjax = function() {
+    if (window.MathJax) {
+    // MathJax loaded
+        MathJax.Hub.Config({
+            TeX: {
+                equationNumbers: {
+                autoNumber: "AMS",
+                useLabelIds: true
+                }
+            },
+            tex2jax: {
+                inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+                displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+                processEscapes: true,
+                processEnvironments: true
+            },
+            displayAlign: 'center',
+            CommonHTML: {
+                linebreaks: { 
+                automatic: true 
+                }
+            },
+            "HTML-CSS": {
+                linebreaks: { 
+                automatic: true 
+                }
+            }
+        });
+    
+        MathJax.Hub.Queue(["Typeset", MathJax.Hub]);
+    }
+}
+init_mathjax();
+</script>
+<!-- End of mathjax configuration -->
+
 # Github Pages의 Markdown과 Latex 수식
 
 깃허브 페이지에서 마크다운을 이용하여 수식(mathmatical formulas)이 포함된
@@ -39,9 +94,12 @@
 다양한 수식 예제를 latex으로 표현하는 예제들을 살펴본다.
 
 <p>$\mathbf{x}$를 원시 데이터(raw data) 벡터라고 하고 $\mathbf{z}$를 표준화된 벡터이라 할 때 다음 관계가 성립한다.</p>
+
 $$
 \mathbf{z} = \frac{\mathbf{x}-\mu}{\sigma} \tag{*}
-$$<ul>
+$$
+
+<ul>
 <li>$\mu$: 평균값(mean)</li>
 <li>$\sigma$: 표준편차(standard deviation)</li>
 </ul>
