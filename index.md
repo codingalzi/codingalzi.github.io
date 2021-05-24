@@ -27,4 +27,4 @@ layout: default
 
 ## 블로그
 
-* [Github Pages의 Markdown과 Latex 수식(formula) 표현](./blogs/mathjax_support.md)
+* [Github Pages의 Markdown과 Latex 수식](./blogs/mathjax_support.md)
