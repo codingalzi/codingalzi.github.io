@@ -81,11 +81,11 @@ init_mathjax();
     먼저 `head.html` 파일의 `head` 태그 안에 아래 html 코드를 삽입한다. 
 
     ~~~    
-    {% if page.use_math %}
-        {% include mathjax_support.html %}
-    {% endif %}
+    \{% if page.use_math %\}
+        \{% include mathjax_support.html %\}
+    \{% endif %\}
     ~~~
-    
+
     단, 앞서 언급된 자바스크립트 코드가 저장된 `mathjax_support.html` 파일이
     `head.html` 파일과 동일한 폴더에 위치해야 한다. [mathjax_support.txt](./scripts/mathjax_support.txt) 파일을 다운로드한 후에 확장자를 `.html`로 변경해서 적절한
     디렉토리에 저장하면 된다.
@@ -95,14 +95,16 @@ init_mathjax();
 
 다양한 수식 예제를 latex으로 표현하는 예제들을 살펴본다.
 
-<p>$\mathbf{x}$를 원시 데이터(raw data) 벡터라고 하고 $\mathbf{z}$를 표준화된 벡터이라 할 때 다음 관계가 성립한다.</p>
+---
+
+### 예제 1
+
+$\mathbf{x}$를 원시 데이터(raw data) 벡터라고 하고 $\mathbf{z}$를 표준화된 벡터이라 할 때 다음 관계가 성립한다.
 
 $$
 \mathbf{z} = \frac{\mathbf{x}-\mu}{\sigma} \tag{*}
 $$
 
-<ul>
-<li>$\mu$: 평균값(mean)</li>
-<li>$\sigma$: 표준편차(standard deviation)</li>
-</ul>
+### 예제 2
+
 
