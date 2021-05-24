@@ -80,11 +80,18 @@ init_mathjax();
     jekyll 등 특별한 테마를 사용할 경우에 권장되는 방법으로,
     먼저 `head.html` 파일의 `head` 태그 안에 아래 html 코드를 삽입한다. 
 
-    ~~~    
-    \{% if page.use_math %\}
-        \{% include mathjax_support.html %\}
-    \{% endif %\}
-    ~~~
+    {% assign openTag = '{%' %}
+    {% raw %}
+    This is how you show the termination of the `{% raw %}` tag inside itself: 
+    {% endraw %}{{ openTag }} endraw %}{% raw %}
+    This content is back inside the {% raw %} block
+    {% endraw %}
+
+    ```
+    {% if page.use_math %}
+        {% include mathjax_support.html %}
+    {% endif %}
+    ```
 
     단, 앞서 언급된 자바스크립트 코드가 저장된 `mathjax_support.html` 파일이
     `head.html` 파일과 동일한 폴더에 위치해야 한다. [mathjax_support.txt](./scripts/mathjax_support.txt) 파일을 다운로드한 후에 확장자를 `.html`로 변경해서 적절한
