@@ -11,7 +11,8 @@ layout: default
 ## 머신러닝/딥러닝
 
 * [핸즈온 머신러닝(2판)](https://codingalzi.github.io/handson-ml2/)
-* [모두를 위한 머신러닝](https://codingalzi.github.io/mle/)
+* [Deep Learning with Python](https://codingalzi.github.io/dlp/)
+* [모두를 위한 머신러닝/딥러닝](https://codingalzi.github.io/mle/)
 
 ## 파이썬 프로그래밍
 
@@ -19,6 +20,7 @@ layout: default
 
 ## 알고리즘
 
+* [문제해결 알고리즘](https://codingalzi.github.io/algopy/)
 * [알고리즘 기초](https://codingrg-hknu.github.io/FoundationsOfAlgorithms/)
 
 ## C 언어 프로그래밍
