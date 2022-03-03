@@ -4,6 +4,12 @@ layout: default
 
 [코딩알지](https://github.com/codingalzi/codingalzi.github.io)에서 제공하는 강의자료 모음집입니다.
 
+## 파이썬 프로그래밍
+
+* [파이썬 프로그래밍 기초](https://codingalzi.github.io/pybook/)
+* 이전 강의 노트
+    * [파이썬 프로그래밍 기초](https://formal.hknu.ac.kr/ProgInPython/) (구버전)
+
 ## 데이터 과학
 
 * [파이썬 데이터 분석](https://codingalzi.github.io/pydata/)
@@ -16,10 +22,6 @@ layout: default
 * [핸즈온 머신러닝(2판)](https://codingalzi.github.io/handson-ml2/)
 * [Deep Learning with Python](https://codingalzi.github.io/dlp/)
 * [모두를 위한 머신러닝/딥러닝](https://codingalzi.github.io/mle/)
-
-## 파이썬 프로그래밍
-
-* [파이썬 프로그래밍 기초](https://formal.hknu.ac.kr/ProgInPython/)
 
 ## 알고리즘
 
