@@ -12,10 +12,11 @@ layout: default
 
 ## 데이터 과학
 
-* [파이썬 데이터 분석](https://codingalzi.github.io/pydata/)
+* [파이썬 데이터 분석](https://codingalzi.github.io/datapy/)
 * 이전 강의 노트
-  * [파이썬 데이터분석 기초(구버전)](http://formal.hknu.ac.kr/DataAnalysisInPython/)
-  * [파이썬 데이터과학 입문(Gongsu-DataSci)](https://formal.hknu.ac.kr/Gongsu-DataSci/)
+    * [파이썬 데이터 분석(2021 버전)](https://codingalzi.github.io/pydata/)
+    * [파이썬 데이터분석 기초(구버전)](http://formal.hknu.ac.kr/DataAnalysisInPython/)
+    * [파이썬 데이터과학 입문(Gongsu-DataSci)](https://formal.hknu.ac.kr/Gongsu-DataSci/)
 
 ## 머신러닝/딥러닝
 
