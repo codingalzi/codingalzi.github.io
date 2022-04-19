@@ -20,9 +20,10 @@ layout: default
 
 ## 머신러닝/딥러닝
 
-* [핸즈온 머신러닝(2판)](https://codingalzi.github.io/handson-ml2/)
-* [Deep Learning with Python](https://codingalzi.github.io/dlp/)
-* [모두를 위한 머신러닝/딥러닝](https://codingalzi.github.io/mle/)
+* [핸즈온 머신러닝 (3판)](https://codingalzi.github.io/handson-ml3/)
+* [Deep Learning with Python (2판)](https://codingalzi.github.io/dlp/)
+* 이전 강의 노트
+    * [핸즈온 머신러닝 (2판)](https://codingalzi.github.io/handson-ml2/)
 
 ## 알고리즘
 
