@@ -28,11 +28,11 @@ layout: default
 ## 알고리즘
 
 * [문제해결 알고리즘](https://codingalzi.github.io/algopy/)
-* [알고리즘 기초](https://codingrg-hknu.github.io/FoundationsOfAlgorithms/)
+* [알고리즘 기초](https://codingalzi-hknu.github.io/FoundationsOfAlgorithms/)
 
 ## C 언어 프로그래밍
 
-* [파이썬과 함께 배우는 C 프로그래밍](https://codingrg-hknu.github.io/NadoCoding-C-Python/)
+* [파이썬과 함께 배우는 C 프로그래밍](https://codingalzi-hknu.github.io/NadoCoding-C-Python/)
 
 ## 블로그
 
