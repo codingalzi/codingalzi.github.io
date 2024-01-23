@@ -6,7 +6,7 @@ layout: default
 
 ## 파이썬 프로그래밍
 
-* [파이썬 프로그래밍 기초](https://codingalzi.github.io/pybook/)
+* [파이썬 프로그래밍](https://codingalzi.github.io/pybook/)
 * 이전 강의 노트
     * [파이썬 프로그래밍 기초](https://formal.hknu.ac.kr/ProgInPython/) (구버전)
 
