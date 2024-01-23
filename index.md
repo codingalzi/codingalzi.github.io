@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[코딩알지](https://github.com/codingalzi/codingalzi.github.io)에서 제공하는 프로그래밍 강의 자료 모음집입니다.
+코딩알지가 제공하는 프로그래밍 강의 자료 모음집입니다.
 
 ## 파이썬 프로그래밍
 
