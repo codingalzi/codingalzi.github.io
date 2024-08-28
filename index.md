@@ -7,23 +7,15 @@ layout: default
 ## 파이썬 프로그래밍
 
 * [파이썬 프로그래밍](https://codingalzi.github.io/pybook/)
-* 이전 강의 노트
-    * [파이썬 프로그래밍 기초](https://formal.hknu.ac.kr/ProgInPython/) (구버전)
 
 ## 데이터 과학
 
 * [파이썬 데이터 분석](https://codingalzi.github.io/datapy/)
-* 이전 강의 노트
-    * [파이썬 데이터 분석(2021 버전)](https://codingalzi.github.io/pydata/)
-    * [파이썬 데이터분석 기초(구버전)](http://formal.hknu.ac.kr/DataAnalysisInPython/)
-    * [파이썬 데이터과학 입문(Gongsu-DataSci)](https://formal.hknu.ac.kr/Gongsu-DataSci/)
 
 ## 머신러닝/딥러닝
 
 * [핸즈온 머신러닝](https://codingalzi.github.io/handson-ml3/)
 * [Deep Learning with Python](https://codingalzi.github.io/dlp2/)
-* 이전 강의 노트
-    * [핸즈온 머신러닝 (2판)](https://codingalzi.github.io/handson-ml2/)
 
 ## 알고리즘
 
