@@ -11,9 +11,6 @@ layout: default
 ## 데이터 과학
 
 * [파이썬 데이터 분석](https://codingalzi.github.io/datapy/)
-
-## 머신러닝/딥러닝
-
 * [핸즈온 머신러닝](https://codingalzi.github.io/handson-ml3/)
 * [Deep Learning with Python](https://codingalzi.github.io/dlp2/)
 
