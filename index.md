@@ -6,6 +6,7 @@ layout: default
 
 ## 파이썬 프로그래밍
 
+* [42H: 파이썬 프로그래밍](https://codingalzi.github.io/42H/)
 * [파이썬 프로그래밍](https://codingalzi.github.io/pybook/)
 
 ## 데이터 과학
