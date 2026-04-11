@@ -13,10 +13,10 @@ layout: default
 ## 데이터 과학
 
 * [42H: 데이터 사이언스](https://codingalzi.github.io/code-workout-datasci/)
-* [데이터 사이언스 기초](https://codingalzi.github.io/DataSci/)
-* [파이썬 데이터 분석](https://codingalzi.github.io/datapy/)
+* [데이터 사이언스 기초](https://codingalzi.github.io/DataSci/) (old)
+* [파이썬 데이터 분석](https://codingalzi.github.io/datapy/) (more old)
 * [42H: 머신러닝](https://codingalzi.github.io/code-workout-ml/)
-* [핸즈온 머신러닝](https://codingalzi.github.io/handson-ml3/)
+* [핸즈온 머신러닝](https://codingalzi.github.io/handson-ml3/) (old)
 * [Deep Learning with Python](https://codingalzi.github.io/dlp2/)
 
 ## 알고리즘
