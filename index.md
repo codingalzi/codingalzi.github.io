@@ -7,8 +7,8 @@ layout: default
 ## 파이썬 프로그래밍
 
 * [42H: 파이썬](https://codingalzi.github.io/code-workout-python/)
-* [42H: 파이썬 프로그래밍](https://codingalzi.github.io/42H/)
-* [파이썬 프로그래밍](https://codingalzi.github.io/pybook/)
+* [42H: 파이썬 프로그래밍](https://codingalzi.github.io/42H/) (old)
+* [파이썬 프로그래밍](https://codingalzi.github.io/pybook/) (more old)
 
 ## 데이터 과학
 
