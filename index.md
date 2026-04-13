@@ -6,16 +6,16 @@ layout: default
 
 ## 파이썬 프로그래밍
 
-* [42H: 파이썬](https://codingalzi.github.io/code-workout-python/)
+* [42H: 파이썬](https://codingalzi.github.io/code-workout-python/) (being updated)
 * [42H: 파이썬 프로그래밍](https://codingalzi.github.io/42H/) (old)
 * [파이썬 프로그래밍](https://codingalzi.github.io/pybook/) (older)
 
 ## 데이터 과학
 
-* [42H: 데이터 사이언스](https://codingalzi.github.io/code-workout-datasci/)
+* [42H: 데이터 사이언스](https://codingalzi.github.io/code-workout-datasci/) (being updated)
 * [데이터 사이언스 기초](https://codingalzi.github.io/DataSci/) (old)
 * [파이썬 데이터 분석](https://codingalzi.github.io/datapy/) (older)
-* [42H: 머신러닝](https://codingalzi.github.io/code-workout-ml/)
+* [42H: 머신러닝](https://codingalzi.github.io/code-workout-ml/) (being updated)
 * [핸즈온 머신러닝](https://codingalzi.github.io/handson-ml3/) (old)
 * [Deep Learning with Python](https://codingalzi.github.io/dlp2/)
 
