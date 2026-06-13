@@ -30,3 +30,7 @@ layout: default
 ## C 언어 프로그래밍
 
 * [파이썬과 함께 배우는 C 프로그래밍](https://codingalzi-hknu.github.io/NadoCoding-C-Python/)
+
+## 강연 자료
+
+* [수학적 사고의 힘 — AI 시대, 수학이 더 중요해진 이유](talks/math-thinking-ai/)
