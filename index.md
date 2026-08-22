@@ -18,8 +18,7 @@ layout: default
 
 ## 머신러닝/딥러닝
 
-* [42H: 머신러닝](https://codingalzi.github.io/code-workout-ml/)
-* [핸즈온 머신러닝](https://codingalzi.github.io/handson-ml3/) (old)
+* [데이터 과학을 위한 머신러닝](https://codingalzi.github.io/code-workout-ml/)
 * [Deep Learning with Python](https://codingalzi.github.io/dlp2/)
 
 ## 알고리즘
