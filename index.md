@@ -19,6 +19,7 @@ layout: default
 ## 머신러닝/딥러닝
 
 * [데이터 과학을 위한 머신러닝](https://codingalzi.github.io/code-workout-ml/)
+* [프로젝트로 배우는 딥러닝](https://codingalzi.github.io/code-workout-dlp/)
 * [Deep Learning with Python](https://codingalzi.github.io/dlp2/)
 
 ## 알고리즘
