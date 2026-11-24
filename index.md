@@ -10,13 +10,9 @@ layout: default
 * [42H: 파이썬 프로그래밍](https://codingalzi.github.io/42H/) (old)
 * [파이썬 프로그래밍](https://codingalzi.github.io/pybook/) (older)
 
-## 데이터 과학
+## 데이터 과학/머신러닝/딥러닝
 
-* [42H: 데이터 사이언스](https://codingalzi.github.io/code-workout-datasci/)
-* [데이터 사이언스 기초](https://codingalzi.github.io/DataSci/) (old)
-* [파이썬 데이터 분석](https://codingalzi.github.io/datapy/) (older)
-
-## 머신러닝/딥러닝
+* [데이터 과학 입문](https://codingalzi.github.io/code-workout-datasci/)
 
 * [데이터 과학을 위한 머신러닝](https://codingalzi.github.io/code-workout-ml/)
 * [프로젝트로 배우는 딥러닝](https://codingalzi.github.io/code-workout-dlp/)
