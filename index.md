@@ -6,7 +6,7 @@ layout: default
 
 ## 파이썬 프로그래밍
 
-* [42H: 파이썬](https://codingalzi.github.io/code-workout-python/)
+* [파이썬 프로그래밍 입문](https://codingalzi.github.io/code-workout-python/)
 
 ## 데이터 과학/머신러닝/딥러닝
 
